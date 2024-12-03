@@ -25,10 +25,6 @@ A proof-of-concept implementation demonstrates the model's practical utility by 
 
 The following table presents the formal description of the process dependencies:
 
-| Dependency Type      | Description                                                                                  |
-|----------------------|----------------------------------------------------------------------------------------------|
-| Control Flow         | [Description of control flow dependencies]                                                  |
-| Data Flow            | [Description of data flow dependencies]                                                     |
-| Resource-to-Activity | [Description of resource-to-activity dependencies]                                          |
+![Alt text](./images/control-flow.png)
 
 
