@@ -82,7 +82,6 @@ if __name__ == '__main__':
                   r"queries/RULE003_Flow_node_loss_of_availability_propagation_via_xor_pattern.cypher",
                   r"queries/RULE004_Flow_node_loss_of_availability_propagation_via_or_pattern.cypher",
                   r"queries/RULE005_Flow_node_loss_of_availability_propagation_via_parallel_pattern.cypher",
-                  #r"queries/RULE006_Flow_node_loss_of_availability_via_discriminator_converging_gateway.cypher",
                   r"queries/RULE007_Resource_to_data_resource_loss_of_confidentiality_propagation.cypher",
                   r"queries/RULE008_Resource_to_data_resource_loss_of_integrity_propagation.cypher",
                   r"queries/RULE009_Data_resource_to_activity_loss_of_confidentiality_propagation_P2_P3.cypher",
@@ -93,8 +92,7 @@ if __name__ == '__main__':
                   r"queries/RULE013_Activity_on_data_P2_loss_of_integrity_propagation.cypher",
                   r"queries/RULE014_Activity_on_data_P2_loss_of_availability_propagation.cypher",
                   r"queries/RULE015_Data_on_routing_constraint_P5_loss_of_integrity_propagation.cypher",
-                  r"queries/RULE016_Routing_constraint_on_flow_node_P6_loss_of_integrity_propagation.cypher",
-                  #r"queries/RULE017_Loss_of_integrity_of_a_routing_constraint_that_leads_to_a_loss_of_availability.cypher"
+                  r"queries/RULE016_Routing_constraint_on_flow_node_P6_loss_of_integrity_propagation.cypher"
     ]
     executor.execute_multiple_cypher_files(file_paths, database_name)
     executor.close()
