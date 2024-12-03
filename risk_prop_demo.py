@@ -70,7 +70,7 @@ if __name__ == '__main__':
     uri = 
     user = 
     password = 
-    database_name = "test"
+    database_name = 
     executor = CypherExecutor(uri, user, password)
     #Create the graph
     executor.execute_single_cypher_file(r"queries/1_Create_the_graph.cypher", database_name)
