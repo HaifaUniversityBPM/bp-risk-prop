@@ -10,7 +10,7 @@ A proof-of-concept implementation demonstrates the model's practical utility by 
 ## Resources
 
 - **OWL File**: The OWL file of the credit request evaluation process can be found [here](#).
-- **Cypher Queries**: Implementation of the inference rules is available [here](#queries).
+- **Cypher Queries**: Implementation of the inference rules is available [blob/main/bbo_credit_request.xml](#queries).
 
 ### Inference Rules Table
 
