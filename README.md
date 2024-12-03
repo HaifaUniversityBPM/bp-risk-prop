@@ -9,7 +9,7 @@ A proof-of-concept implementation demonstrates the model's practical utility by 
 
 ## Resources
 
-- **OWL File**: The OWL file of the credit request evaluation process can be found [here](#).
+- **OWL File**: The OWL file of the credit request evaluation process can be found [here](./bbo_credit_request.xml).
 - **Cypher Queries**: Implementation of the inference rules is available [here](./queries).
 
 ### Inference Rules Table
@@ -19,7 +19,7 @@ A proof-of-concept implementation demonstrates the model's practical utility by 
 | Rule 1                | `1_Create_the_graph.cypher` |
 | Rule 2                | [Add other queries]         |
 
-- **Python Script**: The script for running the inference is available [here](#risk_prop_demo.py).
+- **Python Script**: The script for running the inference is available [here](./risk_prop_demo.py).
 
 ## Formal Description of Process Dependencies
 
