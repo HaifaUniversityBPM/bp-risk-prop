@@ -23,8 +23,12 @@ A proof-of-concept implementation demonstrates the model's practical utility by 
 
 ## Formal Description of Process Dependencies
 
-The following table presents the formal description of the process dependencies:
+The following tables presents the formal description of the process dependencies:
 
-![Alt text](./images/control-flow.png)
+![Alt text](./images/resource_to_activity.png)
+
+![Alt text](./images/control_flow.png)
+
+![Alt text](./images/data_flow.png)
 
 
