@@ -67,9 +67,9 @@ class CypherExecutor:
                 summary.counters.properties_set)
 
 if __name__ == '__main__':
-    uri = "bolt://localhost:7687"
-    user = "neo4j"
-    password = "qwerty"
+    uri = 
+    user = 
+    password = 
     database_name = "test"
     executor = CypherExecutor(uri, user, password)
     #Create the graph
