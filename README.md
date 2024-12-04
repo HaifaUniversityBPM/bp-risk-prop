@@ -12,10 +12,6 @@ This paper explores the propagation of cyber risks within business processes, ad
 
 ### Mapping of the paper inference rules to the PoC cypher queries:
 
-Here's the updated table with the rule descriptions and the requested links to the Cypher queries:
-
-### Mapping of the paper inference rules to the PoC cypher queries:
-
 | Inference Rule Number | Rule Description                                                                                  | Cypher Query Name                                                                                          |
 |------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Rule 1                 | If a non-data resource involved in an activity becomes unavailable, the activity itself becomes unavailable. | [`RULE001_Resource_to_activity_loss_of_availability_propagation.cypher`](./queries/RULE001_Resource_to_activity_loss_of_availability_propagation.cypher) |
