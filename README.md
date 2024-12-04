@@ -20,15 +20,6 @@ A proof-of-concept implementation demonstrates the model's practical utility by 
 | Rule 2                | [Add other queries]         |
 
 - **Python Script**: The script for running the inference is available [here](./risk_prop_demo.py).
-
-## Formal Description of Process Dependencies
-
-The following tables presents the formal description of the process dependencies:
-
-![Alt text](./images/resource_to_activity.png)
-
-![Alt text](./images/control_flow.png)
-
-![Alt text](./images/data_flow.png)
+- **Dependencies and Rules Formal Description**: The formal description of the process dependencies and rules [here](./).
 
 
