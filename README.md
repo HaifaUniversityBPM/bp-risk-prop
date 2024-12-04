@@ -1,11 +1,7 @@
 # Conceptualizing Process Dependencies That Propagate Cyber Risk
 
 ## Abstract
-This paper addresses the critical challenge of understanding how cyber risks propagate within business processes, driven by increasing interconnectivity due to IoT and cloud adoption. Existing research often neglects comprehensive process-aware perspectives, particularly the intricate dependencies across business process components. This gap motivates our work to explore how cyber risks, originating at the infrastructure level, cascade through processes, impacting business process components.
-
-We propose a conceptualization as the primary contribution, capturing the representation of business process components, dependencies, cyber risk events, and inference rules to elucidate risk propagation. The conceptualization synthesizes insights from literature and incorporates risk inference rules to address control flow, data flow, and resource-to-activity dependencies. 
-
-A proof-of-concept implementation demonstrates the model's practical utility by analyzing risk propagation within a credit evaluation business process. Our findings emphasize the importance of a nuanced understanding of business process dependencies, revealing how confidentiality, integrity, and availability risks propagate. This work lays the foundation for more robust process-aware risk assessments, offering significant implications for mitigating cascading cyber risks in interconnected business environments.
+This paper explores the propagation of cyber risks within business processes, addressing the lack of process-awareness in existing research, especially regarding dependencies between process model components. We propose a conceptualization that incorporates process model components, dependencies, cyber risk events, and inference rules for capturing cascading effects. The conceptualization covers control flow, data flow, and resource-to-activity dependencies. A proof of concept, analyzing risk propagation in a credit evaluation process, demonstrates how confidentiality, integrity, and availability risks cascade across components. Our findings show how this approach uncovers cascading risks, providing insights for cyber risk assessment in interconnected environments.
 
 ## Resources
 
