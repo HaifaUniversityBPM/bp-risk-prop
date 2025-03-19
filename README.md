@@ -9,6 +9,7 @@ This paper explores the propagation of cyber risks within business processes, ad
 - **Cypher Queries**: Implementation of the inference rules is available [here](./queries).
 - **Python Script**: The script for running the inference is available [here](./risk_prop_demo.py).
 - **Dependencies and Rules Formal Description**: The formal description of the process dependencies and rules [here](./Process_dependencies_that_propagate_cyber_risk__Process_dependencies_and_inference_rules.pdf).
+- **Simulated vulnerabilities**: links to the simulated vulnerabilities [here](./simulated_vulnerabilities.txt).
 
 ### Mapping of the paper inference rules to the PoC cypher queries:
 
